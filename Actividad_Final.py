@@ -2,7 +2,7 @@
 """
 Created on Mon Sep 30 14:47:47 2024
 
-@author: migue
+@author: migue y JC
 """
 
 # Librerías
